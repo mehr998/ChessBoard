@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.app{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10%;
+
+}
+
+body{
+    background-image: url("https://w.wallhaven.cc/full/4v/wallhaven-4v9v6m.jpg");
+
+}
